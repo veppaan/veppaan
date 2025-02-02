@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Jag heter Vera, är 22 år och bor i Stockholm.
+Jag heter Vera, är 23 år och bor i Stockholm.
 
 ### Jag går just nu Webbutvecklings-programmet termin 1!
 <!--
