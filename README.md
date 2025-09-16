@@ -2,7 +2,7 @@
 
 Jag heter Vera, är 23 år och bor i Stockholm.
 
-### Jag går just nu Webbutvecklings-programmet termin 2!
+### Jag går just nu Webbutvecklings-programmet termin 3!
 <!--
 **veppaan/veppaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
